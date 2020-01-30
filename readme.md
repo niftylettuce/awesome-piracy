@@ -260,7 +260,7 @@ You will notice some items in this list have a :star2: next to them. Items with 
 
 ## Email
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
-- [ForwardEmail](https://forwardemail.net/) Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses.
+- [ForwardEmail](https://forwardemail.net/) Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses.  It is 100% open-source.
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) Secure, open source email service
